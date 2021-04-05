@@ -1,0 +1,33 @@
+{
+  "global": {
+    "globalAutoLayerMarkEnable": false
+  },
+  "16d4c37418c": {
+    "guideLines": [
+      {
+        "type": "h",
+        "pos": -23
+      },
+      {
+        "type": "h",
+        "pos": -12
+      },
+      {
+        "type": "h",
+        "pos": 80
+      },
+      {
+        "type": "h",
+        "pos": -23
+      },
+      {
+        "type": "h",
+        "pos": 51
+      },
+      {
+        "type": "h",
+        "pos": -18
+      }
+    ]
+  }
+}

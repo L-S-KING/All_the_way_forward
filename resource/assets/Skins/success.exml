@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="success" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="sceneBg_jpg" x="0" y="0"/>
+	<e:Button id="again" label="" x="274.66" y="512.17">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="again_png" source.down="again_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="next" label="" x="590" y="511.17">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="next_png" source.down="next_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="menu" label="" x="897.67" y="512.17">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="menu_png" source.down="menu_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Image source="success_png" x="554" y="46.67"/>
+	<e:Image source="star_png" x="539" y="345.5"/>
+	<e:Label id="starNum" text="" x="613" y="345" width="120" height="40" textAlign="center" verticalAlign="middle" bold="true"/>
+</e:Skin>

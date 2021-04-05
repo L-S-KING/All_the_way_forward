@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="first" width="5120" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*" xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="16d4c37418c"/>
+	<e:Image source="star_png" x="650" y="130" anchorOffsetX="15" anchorOffsetY="14.5" visible="false"/>
+	<e:Image source="board2_png" x="4790.66" y="370" anchorOffsetX="90" anchorOffsetY="10" visible="false"/>
+	<ns1:Diamond width="102" height="59" x="178" y="236" anchorOffsetX="0" anchorOffsetY="0"/>
+</e:Skin>

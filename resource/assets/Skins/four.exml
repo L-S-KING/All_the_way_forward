@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="four" width="5120" height="720" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="player1_png" x="3273.5" y="360"/>
+	<e:Image source="land2_png" x="480" y="420" anchorOffsetX="160" anchorOffsetY="60"/>
+	<e:Image source="thron24_png" x="400" y="370" anchorOffsetX="73" anchorOffsetY="10"/>
+	<e:Image source="land2_png" x="1120" y="420" anchorOffsetX="160" anchorOffsetY="60"/>
+	<e:Image source="thron24_png" x="1850" y="600" anchorOffsetX="73" anchorOffsetY="10"/>
+	<e:Image source="land6_png" x="640" y="660" anchorOffsetX="640" anchorOffsetY="60"/>
+	<e:Image source="land6_png" x="1920" y="658" anchorOffsetX="640" anchorOffsetY="60"/>
+	<e:Image source="land4_png" x="2310" y="490" anchorOffsetX="60" anchorOffsetY="135"/>
+	<e:Image source="land6_png" x="3200" y="660" anchorOffsetX="640" anchorOffsetY="60" visible="false"/>
+	<e:Image source="land6_png" x="4480" y="660" anchorOffsetX="640" anchorOffsetY="60" visible="false"/>
+	<e:Image source="land5_png" x="1470" y="560" anchorOffsetX="50" anchorOffsetY="50"/>
+	<e:Image source="land1_png" x="800" y="315" anchorOffsetX="320" anchorOffsetY="60"/>
+	<e:Image source="land4_png" x="1700" y="480" anchorOffsetX="60" anchorOffsetY="135"/>
+	<e:Image source="land4_png" x="2000" y="480" anchorOffsetX="60" anchorOffsetY="135"/>
+	<e:Image source="thron24_png" x="2155" y="605" anchorOffsetX="73" anchorOffsetY="10"/>
+	<e:Image source="land4_png" x="2600" y="270" anchorOffsetX="60" anchorOffsetY="135"/>
+	<e:Image source="land3_png" x="3300" y="200" anchorOffsetX="50" anchorOffsetY="30"/>
+	<e:Image source="land3_png" x="3150" y="330" anchorOffsetX="50" anchorOffsetY="30"/>
+	<e:Image source="land3_png" x="2700" y="630" anchorOffsetX="50" anchorOffsetY="30"/>
+	<e:Image source="land3_png" x="2900" y="630" anchorOffsetX="50" anchorOffsetY="30"/>
+	<e:Image source="land3_png" x="3100" y="560" anchorOffsetX="50" anchorOffsetY="30"/>
+	<e:Image source="land3_png" x="3300" y="435" anchorOffsetX="50" anchorOffsetY="30"/>
+	<e:Image source="land2_png" x="2815" y="345" anchorOffsetX="160" anchorOffsetY="60"/>
+	<e:Image source="land2_png" x="3700" y="590" anchorOffsetX="160" anchorOffsetY="60"/>
+	<e:Image source="land2_png" x="3700" y="230" anchorOffsetX="160" anchorOffsetY="60"/>
+	<e:Image source="ball11_png" x="3835" y="525" anchorOffsetX="25" anchorOffsetY="25"/>
+	<e:Image source="cloud1_png" x="4650" y="350" anchorOffsetX="40" anchorOffsetY="20"/>
+	<e:Image source="cloud1_png" x="4350" y="550" anchorOffsetX="40" anchorOffsetY="20"/>
+	<e:Image source="cloud1_png" x="4150" y="600" anchorOffsetX="40" anchorOffsetY="20"/>
+	<e:Image source="cloud1_png" x="4350" y="350" anchorOffsetX="40" anchorOffsetY="20"/>
+	<e:Image source="cloud1_png" x="4650" y="550" anchorOffsetX="40" anchorOffsetY="20"/>
+	<e:Image source="cloud1_png" x="4850" y="600" anchorOffsetX="40" anchorOffsetY="20"/>
+	<e:Image source="cloud1_png" x="4850" y="250" anchorOffsetX="40" anchorOffsetY="20"/>
+	<e:Image source="cloud1_png" x="4150" y="250" anchorOffsetX="40" anchorOffsetY="20"/>
+	<e:Image source="land3_png" x="5070" y="415" anchorOffsetX="50" anchorOffsetY="30"/>
+	<e:Image source="board3_png" x="4501" y="620" anchorOffsetX="40" anchorOffsetY="40"/>
+	<e:Image source="item1_png" x="800" y="190" anchorOffsetX="11.5" anchorOffsetY="20"/>
+	<e:Image source="thron54_png" x="788.5" y="420" anchorOffsetX="60" anchorOffsetY="15"/>
+	<e:Image source="thron11_png" x="1190" y="365" anchorOffsetX="50" anchorOffsetY="10"/>
+	<e:Image source="ball21_png" x="1850" y="450" anchorOffsetX="40" anchorOffsetY="39.5"/>
+	<e:Image source="ball21_png" x="2155" y="300" anchorOffsetX="40" anchorOffsetY="39.5"/>
+	<e:Image source="ball11_png" x="520" y="240" anchorOffsetX="25" anchorOffsetY="25"/>
+	<e:Image source="npc11_png" x="2925" y="250" anchorOffsetX="50.5" height="100" anchorOffsetY="50"/>
+	<e:Image source="ball11_png" x="3565" y="160" anchorOffsetX="25" anchorOffsetY="25"/>
+	<e:Image source="thron24_png" x="1200" y="360" anchorOffsetX="73" anchorOffsetY="10"/>
+	<e:Image source="star_png" x="2600" y="85.5" anchorOffsetX="15" anchorOffsetY="14.5"/>
+	<e:Image source="star_png" x="2000" y="246" anchorOffsetX="15" anchorOffsetY="14.5"/>
+	<e:Image source="star_png" x="1200" y="284.5" anchorOffsetX="15" anchorOffsetY="14.5"/>
+	<e:Image source="star_png" x="3700" y="100" anchorOffsetX="15" anchorOffsetY="14.5"/>
+	<e:Image source="star_png" x="3700" y="440" anchorOffsetX="15" anchorOffsetY="14.5"/>
+	<e:Image source="diamond_png" x="5070" y="355" anchorOffsetX="15" anchorOffsetY="11"/>
+</e:Skin>

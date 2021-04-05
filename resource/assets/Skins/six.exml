@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="six" width="5120" height="720" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="land9_png" x="0" y="0"/>
+	<e:Image source="land10_png" x="50"/>
+	<e:Image source="land10_png" x="0" y="670"/>
+	<e:Image source="land10_png" x="1350" y="0"/>
+	<e:Image source="land10_png" x="1300" y="670"/>
+	<e:Image source="land10_png" x="2650" y="0"/>
+	<e:Image source="land10_png" x="2600" y="670"/>
+	<e:Image source="land10_png" x="3950" y="0"/>
+	<e:Image source="land10_png" x="3900" y="670"/>
+	<e:Image source="land9_png" x="5070" y="0"/>
+	<e:Image source="land8_png" x="600" y="100" anchorOffsetX="50" anchorOffsetY="50"/>
+	<e:Image source="land12_png" x="550" y="325" anchorOffsetX="100" anchorOffsetY="25"/>
+	<e:Image source="land12_png" x="750" y="325" anchorOffsetX="100" anchorOffsetY="25"/>
+	<e:Image source="land12_png" x="1350" y="495" anchorOffsetX="100" anchorOffsetY="25"/>
+	<e:Image source="land12_png" x="1000" y="325" anchorOffsetX="100" anchorOffsetY="25"/>
+	<e:Image source="star_png" x="1800" y="80" anchorOffsetX="15" anchorOffsetY="14.5"/>
+	<e:Image source="land12_png" x="1250" y="325" anchorOffsetX="100" anchorOffsetY="25"/>
+	<e:Image source="land12_png" x="1550" y="175" anchorOffsetX="100" anchorOffsetY="25"/>
+	<e:Image source="land12_png" x="3250" y="445" anchorOffsetX="100" anchorOffsetY="25"/>
+	<e:Image source="land12_png" x="2900" y="520" anchorOffsetX="100" anchorOffsetY="25"/>
+	<e:Image source="land12_png" x="3500" y="245" anchorOffsetX="100" anchorOffsetY="25"/>
+	<e:Image source="land12_png" x="3750" y="445" anchorOffsetX="100" anchorOffsetY="25"/>
+	<e:Image source="land12_png" x="4050" y="220" anchorOffsetX="100" anchorOffsetY="25"/>
+	<e:Image source="land12_png" x="4450" y="220" anchorOffsetX="100" anchorOffsetY="25"/>
+	<e:Image source="land12_png" x="4250" y="220" anchorOffsetX="100" anchorOffsetY="25"/>
+	<e:Image source="land12_png" x="300" y="175" anchorOffsetX="100" anchorOffsetY="25"/>
+	<e:Image source="land12_png" x="350" y="495" anchorOffsetX="100" anchorOffsetY="25"/>
+	<e:Image source="land14_png" x="875" y="250" anchorOffsetX="25" anchorOffsetY="100"/>
+	<e:Image source="land14_png" x="875" y="450" anchorOffsetX="25" anchorOffsetY="100"/>
+	<e:Image source="land14_png" x="1225" y="570" anchorOffsetX="25" anchorOffsetY="100"/>
+	<e:Image source="land14_png" x="1875" y="570" anchorOffsetX="25" anchorOffsetY="100"/>
+	<e:Image source="land14_png" x="2773.67" y="300" anchorOffsetX="25" anchorOffsetY="100"/>
+	<e:Image source="land14_png" x="2773.67" y="445" anchorOffsetX="25" anchorOffsetY="100"/>
+	<e:Image source="land14_png" x="2973.67" y="150" anchorOffsetX="25" anchorOffsetY="100"/>
+	<e:Image source="land14_png" x="2325" y="250" anchorOffsetX="25" anchorOffsetY="100"/>
+	<e:Image source="land11_png" x="4675" y="220" anchorOffsetX="125" anchorOffsetY="25"/>
+	<e:Image source="land14_png" x="2325" y="450" anchorOffsetX="25" anchorOffsetY="100"/>
+	<e:Image source="land13_png" x="2225" y="325" anchorOffsetX="75" anchorOffsetY="25"/>
+	<e:Image source="land13_png" x="2425" y="525" anchorOffsetX="75" anchorOffsetY="25"/>
+	<e:Image source="land13_png" x="2675" y="375" anchorOffsetX="75" anchorOffsetY="25"/>
+	<e:Image source="land14_png" x="475" y="570" anchorOffsetX="25" anchorOffsetY="100"/>
+	<e:Image source="land14_png" x="1675" y="250" anchorOffsetX="25" anchorOffsetY="100"/>
+	<e:Image source="land14_png" x="425" y="250" anchorOffsetX="25" anchorOffsetY="100"/>
+	<e:Image source="land16_png" x="225" y="470" anchorOffsetX="25" anchorOffsetY="150"/>
+	<e:Image source="land7_png" x="175" y="545" anchorOffsetX="25" anchorOffsetY="25"/>
+	<e:Image source="land16_png" x="1875" y="200" anchorOffsetX="25" anchorOffsetY="150"/>
+	<e:Image source="star_png" x="2268" y="270" anchorOffsetX="15" anchorOffsetY="14.5"/>
+	<e:Image source="star_png" x="2915" y="80" anchorOffsetX="15" anchorOffsetY="14.5"/>
+	<e:Image source="land16_png" x="1125" y="200" anchorOffsetX="25" anchorOffsetY="150"/>
+	<e:Image source="land13_png" x="1775" y="175" anchorOffsetX="75" anchorOffsetY="25"/>
+	<e:Image source="land13_png" x="1775" y="545" anchorOffsetX="75" anchorOffsetY="25"/>
+	<e:Image source="land13_png" x="2875" y="225" anchorOffsetX="75" anchorOffsetY="25"/>
+	<e:Image source="land13_png" x="575" y="595" anchorOffsetX="75" anchorOffsetY="25"/>
+	<e:Image source="land7_png" x="75" y="425" anchorOffsetX="25" anchorOffsetY="25"/>
+	<e:Image source="land11_png" x="2025" y="325" anchorOffsetX="125" anchorOffsetY="25"/>
+	<e:Image source="land11_png" x="2175" y="175" anchorOffsetX="125" anchorOffsetY="25"/>
+	<e:Image source="land13_png" x="2425" y="175" anchorOffsetX="75" anchorOffsetY="25"/>
+	<e:Image source="land15_png" x="3125" y="545" anchorOffsetX="25" anchorOffsetY="125"/>
+	<e:Image source="land15_png" x="3625" y="345" anchorOffsetX="25" anchorOffsetY="125"/>
+	<e:Image source="land15_png" x="3375" y="345" anchorOffsetX="25" anchorOffsetY="125"/>
+	<e:Image source="land7_png" x="4000" y="525" anchorOffsetX="25" anchorOffsetY="25"/>
+	<e:Image source="land7_png" x="4200" y="525" anchorOffsetX="25" anchorOffsetY="25"/>
+	<e:Image source="land7_png" x="4400" y="525" anchorOffsetX="25" anchorOffsetY="25"/>
+	<e:Image source="land7_png" x="4800" y="525" anchorOffsetX="25" anchorOffsetY="25"/>
+	<e:Image source="land7_png" x="5000" y="370" anchorOffsetX="25" anchorOffsetY="25"/>
+	<e:Image source="land7_png" x="4600" y="525" anchorOffsetX="25" anchorOffsetY="25"/>
+	<e:Image source="land16_png" x="3925" y="195" anchorOffsetX="25" anchorOffsetY="150"/>
+	<e:Image source="star_png" x="425" y="545" anchorOffsetX="15" anchorOffsetY="14.5"/>
+	<e:Image source="star_png" x="1068.18" y="230.5" anchorOffsetX="15" anchorOffsetY="14.5"/>
+	<e:Image source="star_png" x="4891.36" y="80" anchorOffsetX="15" anchorOffsetY="14.5"/>
+	<e:Image source="gun1_png" x="290" y="390" anchorOffsetX="40" anchorOffsetY="18"/>
+	<e:Image source="gun1_png" x="90" y="100" anchorOffsetX="40" anchorOffsetY="18"/>
+	<e:Image source="gun1_png" x="1190" y="175" anchorOffsetX="40" anchorOffsetY="18"/>
+	<e:Image source="gun1_png" x="690" y="100" anchorOffsetX="40" anchorOffsetY="18"/>
+	<e:Image source="gun1_png" x="2710" y="570" anchorOffsetX="40" anchorOffsetY="18"/>
+	<e:Image source="gun1_png" x="1940" y="225" anchorOffsetX="40" anchorOffsetY="18"/>
+	<e:Image source="gun1_png" x="90" y="640" anchorOffsetX="40" anchorOffsetY="18"/>
+	<e:Image source="gun2_png" x="1026" y="388" anchorOffsetX="16" anchorOffsetY="35"/>
+	<e:Image source="gun2_png" x="116" y="85" anchorOffsetX="16" anchorOffsetY="35"/>
+	<e:Image source="gun2_png" x="1575" y="235" anchorOffsetX="16" anchorOffsetY="35"/>
+	<e:Image source="gun3_png" x="4100" y="80" anchorOffsetX="25" anchorOffsetY="30"/>
+	<e:Image source="gun3_png" x="4300" y="80" anchorOffsetX="25" anchorOffsetY="30"/>
+	<e:Image source="gun3_png" x="4500" y="80" anchorOffsetX="25" anchorOffsetY="30"/>
+	<e:Image source="laser4_png" x="1550" y="620" anchorOffsetX="300" anchorOffsetY="50"/>
+	<e:Image source="laser4_png" x="4170" y="620" anchorOffsetX="300" anchorOffsetY="50"/>
+	<e:Image source="laser4_png" x="4770" y="620" anchorOffsetX="300" anchorOffsetY="50"/>
+	<e:Image source="ice1_png" x="4032" y="260" anchorOffsetX="7" anchorOffsetY="15"/>
+	<e:Image source="ice1_png" x="1973" y="365" anchorOffsetX="7" anchorOffsetY="15"/>
+	<e:Image source="player1_png" x="75" y="375" anchorOffsetX="25" anchorOffsetY="25"/>
+	<e:Image source="diamond_png" x="4000" y="89" anchorOffsetX="15" anchorOffsetY="11"/>
+</e:Skin>

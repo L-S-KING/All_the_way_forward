@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="key" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:ToggleButton id="stop" label="" x="42.67" y="23.67" width="50" height="50" selected="false">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="stop_png" source.down="start_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:ToggleButton>
+	<e:ToggleButton id="set" label="" x="117.67" y="23.67" width="50" height="50" selected="false">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="12_png" source.down="set_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:ToggleButton>
+	<e:Button id="back" label="" x="201.9" y="23.67" width="50" height="50">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="back_png" source.down="back_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Group id="fireGo" width="334.85" height="181.81" x="945.15" y="538.19" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Button id="fire" label="" x="101.85000000000002" y="15.469999999999914" scaleX="1" scaleY="1">
+			<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="btnAttack01_png" source.down="btnAttack_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+			</e:skinName>
+		</e:Button>
+	</e:Group>
+	<e:Group id="upGo" width="334.85" height="307.57" x="945.15" y="229.1" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Button id="goUp" label="" x="101.85000000000002" y="148.56" scaleX="1" scaleY="1">
+			<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="btnJump01_png" source.down="btnJump_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+			</e:skinName>
+		</e:Button>
+	</e:Group>
+	<e:Group id="rightGo" width="339.39" height="465.15" x="268.57" y="254.85" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Button id="goRight" label="" x="9.090000000000032" y="272.80999999999995" scaleX="1" scaleY="1">
+			<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="btnRight01_png" source.down="btnRight_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+			</e:skinName>
+		</e:Button>
+	</e:Group>
+	<e:Group id="leftGo" width="250" height="465.15" x="0" y="254.85" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Button id="goLeft" label="" x="42.67" y="272.80999999999995" scaleX="1" scaleY="1">
+			<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="btnLeft01_png" source.down="btnLeft_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+			</e:skinName>
+		</e:Button>
+	</e:Group>
+</e:Skin>
